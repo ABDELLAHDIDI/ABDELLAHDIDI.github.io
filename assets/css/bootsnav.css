@@ -737,30 +737,36 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
         display: block;
         width: 100%;
         text-align: center;
+        color: blue  !important;  
     }
     
     nav.bootsnav.navbar-brand-top ul.nav > li.dropdown > ul.dropdown-menu{
         margin-top: 2px;
+        color: blue  !important; 
     }
     
     nav.bootsnav.navbar-brand-top ul.nav > li.dropdown.megamenu-fw > ul.dropdown-menu{
         margin-top: 0;
+        color: blue  !important;
     }
     
     nav.bootsnav.navbar-brand-top .navbar-header .navbar-brand{
         display: inline-block;
         float: none;
         margin: 0;
+        color: blue  !important;
     }
     
     nav.bootsnav.navbar-brand-top .navbar-collapse{
         text-align: center;
+        color: blue  !important; 
     }
     
     nav.bootsnav.navbar-brand-top ul.nav{
         display: inline-block;
         float: none;
         margin: 0 0 -5px 0;
+        color: blue  !important; 
     }
     
     /* Navbar Center
@@ -777,6 +783,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     nav.bootsnav.brand-center .navbar-brand{
         display: inline-block;
         float: none;
+        color: blue  !important;
     }
     
     nav.bootsnav.brand-center .navbar-collapse{
@@ -995,6 +1002,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
         display: inline-block;
         float: none !important;
         margin: 0 !important;
+        color: blue  !important; 
     }
     
     nav.navbar.bootsnav .navbar-header {
@@ -1256,6 +1264,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     nav.bootsnav.navbar-full .navbar-brand    {
         float: left !important;
         padding-left: 0;
+        color: blue  !important; 
     }
     
     nav.bootsnav.navbar-full .navbar-toggle {
